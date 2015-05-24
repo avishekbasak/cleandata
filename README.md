@@ -14,5 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. Unzip the file. The data will be preset in UCI HAR Dataset
 3. Download the run_analysis.R file and copy it into the same directory where the unzip folder resides
 4. Open a R console and set the folder where run_analysis.R file resides as the working directory using setwd command
-5. source run_analysis.R file
+5. source run_analysis.R file.
+
+
 The file tidy_data.txt will be created
